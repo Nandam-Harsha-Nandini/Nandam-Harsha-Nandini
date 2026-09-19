@@ -13,6 +13,7 @@ I am a Computer Science Engineering student interested in Artificial Intelligenc
 - Python
 - Java
 - C
+- HTML, CSS 
 - SQL
 - Artificial Intelligence
 - Machine Learning
