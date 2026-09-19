@@ -20,21 +20,21 @@ I am a Computer Science Engineering student interested in Artificial Intelligenc
 - FastAPI
 - Git & GitHub
 
-🚀 Projects
+## 🚀 Projects
 
-🔍 AI Lost & Found Assistant
+## 🔍 AI Lost & Found Assistant
 
 An AI-powered application that helps users find lost items by matching text descriptions and images using AI-based similarity techniques.
 
 Technologies: Python, FastAPI, SQLite, SQLAlchemy, Scikit-learn, ImageHash, Pillow
 
-📄 AI-Powered Interview & Resume Analyzer
+### 🤖 AI-Based Fake Resume Detection System
+A Machine Learning and NLP based application that analyzes uploaded resumes and provides real/fake classification, confidence, skill detection, ATS-style analysis, and AI-based review.
+**Technologies:** Python, Flask, Machine Learning, NLP, HTML, CSS, JavaScript, Groq API
 
-An AI-based project designed to analyze resumes and support interview preparation.
+### 🏥 Tele-Medicine
+A healthcare-related application project focused on providing tele-medicine functionality through a web-based system.
 
-🤖 AI Medical Chatbot
-
-An AI-based chatbot project designed to provide conversational assistance for medical-related queries.
 
 📜 Certifications
 
