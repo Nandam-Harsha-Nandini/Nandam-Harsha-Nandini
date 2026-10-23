@@ -3,7 +3,7 @@
 
 # Hey, I'm Harsha Nandini! 💜
 
-### Computer Science Engineering Student | Python Developer | AI/ML Enthusiast
+### AI Trainee @ Calibo AI Academy | Computer Science Engineering Student | Python | Machine Learning | Generative AI | AI/ML Enthusiast
 
 *Learning, building, and turning ideas into practical solutions.*
 
