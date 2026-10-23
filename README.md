@@ -1,109 +1,71 @@
-<!--
-  GitHub Profile README
-  Username: Nandam-Harsha-Nandini
-  Theme: Pastel lavender, blush pink, sky blue and mint
--->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=F6DCEB,BFCFF4,C9E9DF&text=Harsha%20Nandini&fontSize=42&fontColor=554B70&fontAlignY=38&animation=fadeIn&desc=Building%20ideas%20into%20useful%20applications&descSize=15&descAlignY=60" width="100%" alt="Pastel header for Harsha Nandini"/>
+# Hey there! 👋 I'm Harsha Nandini
 
-### 🌷 Computer Science Student · Aspiring Developer · AI Enthusiast
+### Computer Science Engineering Student | Python Developer | AI/ML Enthusiast
 
-*Learning, creating, and turning ideas into practical projects.*
+*Building practical projects and turning ideas into intelligent solutions.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-My%20Profile-E9E1F7?style=flat-square&logo=github&logoColor=6F5A91)](https://github.com/Nandam-Harsha-Nandini)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-DCEBFA?style=flat-square&logo=linkedin&logoColor=3976A8)](https://www.linkedin.com/in/nandam-harsha-nandini-67325a296/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B80D8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandam-harsha-nandini-67325a296/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-DB91B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nandam-Harsha-Nandini)
 
 </div>
 
 ---
 
-## 🎨 A little about me
+## ◆ About Me
 
-Hi! I'm **Harsha Nandini**, a final-year BTech Computer Science student interested in software development, artificial intelligence, and machine learning.
+Hi! I'm **Harsha Nandini**, a Computer Science Engineering student who enjoys learning new technologies and developing practical applications.
 
-I enjoy exploring new technologies and building applications that address real-world problems. My focus is on learning by doing, improving my development skills, and turning what I learn into working projects.
-
-- 🌱 Currently growing my skills in Python and full-stack development.
-- 🤖 Interested in AI, machine learning, and NLP-based applications.
-- 💡 I enjoy solving problems and experimenting with new ideas.
-- 🎯 Goal: Become a skilled developer and build technology that makes a difference.
+- 💻 Interested in **Python, Artificial Intelligence, Machine Learning, and Web Development**
+- 🧠 Exploring how AI can solve real-world problems
+- 🛠️ Learning by building projects and improving my coding skills
+- 🌱 Continuously growing my knowledge through hands-on practice
 
 ---
 
-## 🪻 Projects I've been building
-
-*Three ideas, three different problems, and one goal: creating useful technology.*
+## ✦ Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🔎 AI Lost and Found Assistant</h3>
+### 🧠 AI-Based Fake Resume Detection System
 
-<p>A project designed to help people reconnect with their lost belongings by making it easier to find and match lost-item reports with found items.</p>
+An AI/ML-based project that analyzes resume content to help identify potentially fake resumes.
 
-**The goal**
-
-Make the lost-and-found process easier and more organized.
-
-<p>
-<img src="https://img.shields.io/badge/AI-Project-EDE4FA?style=flat-square" alt="AI project"/>
-<img src="https://img.shields.io/badge/Problem-Solving-F9E1EB?style=flat-square" alt="Problem solving"/>
-</p>
+**Tech stack:** Python · Machine Learning · NLP · Flask
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🛡️ AI-Based Fake Resume Detection System</h3>
+### 💬 AI Interview Preparation & Resume Analyzer
 
-<p>A machine-learning project that uses NLP techniques to analyze resume text and help identify potentially fake resumes.</p>
+A web application that analyzes uploaded resumes and generates HR, technical, and project-based interview questions.
 
-**The goal**
-
-Support recruiters in resume screening and make the recruitment process more efficient.
-
-<p>
-<img src="https://img.shields.io/badge/Python-DDEBFC?style=flat-square&logo=python&logoColor=426B9A" alt="Python"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-E0F0E6?style=flat-square" alt="Machine learning"/>
-<img src="https://img.shields.io/badge/NLP-F8E4ED?style=flat-square" alt="NLP"/>
-<img src="https://img.shields.io/badge/Flask-EDE7F6?style=flat-square&logo=flask&logoColor=66557D" alt="Flask"/>
-</p>
+**Tech stack:** Vue.js · Node.js · AI APIs
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎤 AI-Powered Interview Preparation and Resume Analyzer</h3>
+### 🔎 AI Lost and Found Assistant
 
-<p>An application that analyzes uploaded resumes and generates HR, technical, and project-based interview questions, with a separate AI chatbot for assistance.</p>
+An AI-focused project designed around helping users with lost-and-found information.
 
-**The goal**
-
-Help candidates prepare for interviews and identify ways to improve their resumes.
-
-<p>
-<img src="https://img.shields.io/badge/Vue.js-DDF2E7?style=flat-square&logo=vuedotjs&logoColor=438B70" alt="Vue.js"/>
-<img src="https://img.shields.io/badge/Node.js-E3EEDB?style=flat-square&logo=nodedotjs&logoColor=527B43" alt="Node.js"/>
-<img src="https://img.shields.io/badge/AI%20APIs-E8E2F8?style=flat-square" alt="AI APIs"/>
-</p>
+**Focus:** AI-powered assistance
 
 </td>
 <td width="50%" valign="top">
 
-<h3>✨ What's next?</h3>
+### 🚀 What I'm Exploring
 
-<p>I'm continuing to learn, improve existing projects, and explore new ideas in AI and software development.</p>
-
-**My approach**
-
-Learn the concept. Build something practical. Improve it with feedback.
-
-<p>
-<img src="https://img.shields.io/badge/Always-Learning-F6E5D7?style=flat-square" alt="Always learning"/>
-</p>
+- Python development
+- AI and Machine Learning
+- Backend development
+- Data analysis and databases
 
 </td>
 </tr>
@@ -111,94 +73,52 @@ Learn the concept. Build something practical. Improve it with feedback.
 
 ---
 
-## 🌸 Internship experience
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💜 ExcelR
-
-**Python / Django Internship**
-
-📅 May 11 – July 11, 2026
-
-Gained internship experience focused on Python and Django development.
-
-</td>
-<td width="50%" valign="top">
-
-### 🩵 EduSkills
-
-**Python Full Stack Development Internship**
-
-Focused on Python full-stack development and expanding my application-development knowledge.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧁 My technology toolbox
+## ◇ Technical Skills
 
 <div align="center">
 
-**Languages and web development**
+### Programming & Web
+![Python](https://img.shields.io/badge/Python-DCEBFF?style=flat-square&logo=python&logoColor=306998)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF0C2?style=flat-square&logo=javascript&logoColor=8A6D00)
+![HTML5](https://img.shields.io/badge/HTML5-FFE0D6?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-E2E5FF?style=flat-square&logo=css3&logoColor=264DE4)
 
-<img src="https://img.shields.io/badge/Python-DDEBFC?style=flat-square&logo=python&logoColor=426B9A" alt="Python"/>
-<img src="https://img.shields.io/badge/HTML5-FAE3D9?style=flat-square&logo=html5&logoColor=B95C3B" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-DCE8FA?style=flat-square&logo=css3&logoColor=426B9A" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F9EDCB?style=flat-square&logo=javascript&logoColor=80691D" alt="JavaScript"/>
+### Frameworks & Databases
+![Django](https://img.shields.io/badge/Django-DDF5E5?style=flat-square&logo=django&logoColor=14532D)
+![Flask](https://img.shields.io/badge/Flask-E8E8EF?style=flat-square&logo=flask&logoColor=333333)
+![Vue.js](https://img.shields.io/badge/Vue.js-DDF5E5?style=flat-square&logo=vuedotjs&logoColor=287D58)
+![Node.js](https://img.shields.io/badge/Node.js-DDF5E5?style=flat-square&logo=nodedotjs&logoColor=287D58)
+![MySQL](https://img.shields.io/badge/MySQL-DCEBFF?style=flat-square&logo=mysql&logoColor=00618A)
 
-**Frameworks and data**
-
-<img src="https://img.shields.io/badge/Django-DDEEE2?style=flat-square&logo=django&logoColor=356B4A" alt="Django"/>
-<img src="https://img.shields.io/badge/Flask-ECE8F1?style=flat-square&logo=flask&logoColor=62576F" alt="Flask"/>
-<img src="https://img.shields.io/badge/SQL-DCEBF5?style=flat-square&logo=mysql&logoColor=356B8C" alt="SQL"/>
-<img src="https://img.shields.io/badge/NumPy-E2E9FA?style=flat-square&logo=numpy&logoColor=426B9A" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-E9E1F7?style=flat-square&logo=pandas&logoColor=6B5798" alt="Pandas"/>
-
-**AI and development tools**
-
-<img src="https://img.shields.io/badge/Machine%20Learning-E0F0E6?style=flat-square" alt="Machine learning"/>
-<img src="https://img.shields.io/badge/NLP-F8E4ED?style=flat-square" alt="NLP"/>
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-F4E2EC?style=flat-square&logo=github&logoColor=76516B" alt="Git and GitHub"/>
-<img src="https://img.shields.io/badge/VS%20Code-DCEBFA?style=flat-square&logo=visualstudiocode&logoColor=3976A8" alt="VS Code"/>
+### Tools
+![Git](https://img.shields.io/badge/Git-FFE0D6?style=flat-square&logo=git&logoColor=E34F26)
+![GitHub](https://img.shields.io/badge/GitHub-E8E5FF?style=flat-square&logo=github&logoColor=333333)
+![VS Code](https://img.shields.io/badge/VS%20Code-DCEBFF?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
 ---
 
-## ☁️ My GitHub corner
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nandam-Harsha-Nandini&show_icons=true&hide_border=true&bg_color=FFFAFD&title_color=8974B7&icon_color=D99BBB&text_color=615D70" alt="GitHub statistics"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandam-Harsha-Nandini&show_icons=true&hide_border=true&title_color=8B80D8&icon_color=DB91B5&text_color=777777&bg_color=FFFFFF)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandam-Harsha-Nandini&layout=compact&hide_border=true&bg_color=F7FAFF&title_color=7898C9&text_color=615D70" alt="Most used programming languages"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandam-Harsha-Nandini&layout=compact&hide_border=true&title_color=8B80D8&text_color=777777&bg_color=FFFFFF)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Nandam-Harsha-Nandini&hide_border=true&ring=8B80D8&fire=DB91B5&currStreakLabel=8B80D8)
 
 </div>
 
 ---
 
-## 💌 Let's connect
-
 <div align="center">
 
-I'd love to connect with fellow learners, developers, and people who enjoy building meaningful projects.
+### ✨ Thanks for visiting my profile!
 
-<a href="https://www.linkedin.com/in/nandam-harsha-nandini-67325a296/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-DCEBFA?style=for-the-badge&logo=linkedin&logoColor=3976A8" alt="Connect with me on LinkedIn"/>
-</a>
-<a href="https://github.com/Nandam-Harsha-Nandini">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-E9E1F7?style=for-the-badge&logo=github&logoColor=6F5A91" alt="Explore my GitHub"/>
-</a>
+*Learning, building, and improving — one project at a time.*
 
-<br/>
-
-🌷 *Curious mind. Continuous learning. One project at a time.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=C9E9DF,BFCFF4,F6DCEB&section=footer" width="100%" alt="Pastel footer"/>
+[Connect with me on LinkedIn](https://www.linkedin.com/in/nandam-harsha-nandini-67325a296/)
 
 </div>
