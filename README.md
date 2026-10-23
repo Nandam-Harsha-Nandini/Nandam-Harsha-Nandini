@@ -89,15 +89,17 @@ An AI-focused project designed to assist users with lost-and-found information.
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandam-Harsha-Nandini&show_icons=true&hide_border=true&title_color=9284D8&icon_color=D99BB8&bg_color=FFFFFF&text_color=555555)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nandam-Harsha-Nandini&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=9284D8&icon_color=D99BB8&text_color=555555" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandam-Harsha-Nandini&layout=compact&hide_border=true&title_color=9284D8&bg_color=FFFFFF&text_color=555555)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandam-Harsha-Nandini&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=9284D8&text_color=555555" alt="Most Used Languages" />
 
 </div>
+
 
 ---
 
