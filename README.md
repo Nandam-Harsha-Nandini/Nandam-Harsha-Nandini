@@ -1,66 +1,152 @@
-Hi 👋, I'm Harsha Nandini
+<!-- Animated Header -->
+<div align="center">
 
-🎓 B.Tech Computer Science Engineering Student
-💻 Python & Java Developer
-🌱 Currently learning Python, NumPy, Pandas, SQL and Artificial Intelligence
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:8A2BE2,100:00C9FF&height=200&section=header&text=Harsha%20Nandini&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%2FML%20Developer%20%7C%20Python%20Programmer&descSize=16&descAlignY=55" width="100%"/>
 
-👩‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Computer+Science+Engineering+Student;Exploring+AI%2C+ML+and+Python;Learning+%7C+Building+%7C+Growing" alt="Typing SVG"/>
 
-I am a Computer Science Engineering student interested in Artificial Intelligence and software development. I enjoy building practical projects that solve real-world problems and continuously improving my programming and problem-solving skills.
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Nandam-Harsha-Nandini)
+[![Python](https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![AI](https://img.shields.io/badge/AI%20%7C%20ML-Enthusiast-8A2BE2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://github.com/Nandam-Harsha-Nandini)
 
-🛠️ Technical Skills
+</div>
 
-- Python
-- Java
-- C
-- HTML, CSS 
-- SQL
-- Artificial Intelligence
-- Machine Learning
-- FastAPI
-- Git & GitHub
+---
 
-🚀 Projects
+## 💫 About Me
 
-🔍 AI Lost & Found Assistant
+<img align="right" alt="Coding animation" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-An AI-powered application that helps users find lost items by matching text descriptions and images using AI-based similarity techniques.
+👋 Hi! I'm **Harsha Nandini**, a Computer Science Engineering student passionate about technology and innovation.
 
-Technologies: Python, FastAPI, SQLite, SQLAlchemy, Scikit-learn, ImageHash, Pillow
+- 🎓 B.Tech Computer Science Engineering student
+- 💻 Interested in Python and software development
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 📊 Learning data analysis and visualization
+- 🌱 Always learning something new
+- 🎯 Aspiring to build impactful real-world applications
 
- 🤖 AI-Based Fake Resume Detection System
-A Machine Learning and NLP based application that analyzes uploaded resumes and provides real/fake classification, confidence, skill detection, ATS-style analysis, and AI-based review.
-**Technologies:** Python, Flask, Machine Learning, NLP, HTML, CSS, JavaScript, Groq API
+💜 *I believe every line of code is an opportunity to learn something new!*
 
-🏥 Tele-Medicine
-A healthcare-related application project focused on providing tele-medicine functionality through a web-based system.
+<br clear="right"/>
 
+---
 
-📜 Certifications
+## 🧰 Tech Stack & Tools
 
-- Introduction to AI — Google Skill Boost
-- Google Cloud — Google Skill Boost
-- C & Java & python — Infosys SprintBoard
-- INTRODUCTION TO ARTIFICIAL INTELLIGENCE — Infosys SprintBoard
-- INTRODUCTION TO NATURAL LANGUAGE PROCESSING — Infosys SprintBoard
-- INTRODUCTION TO LARGE LANGUAGE MODELS - Infosys SpringBoard
-- AI -Oracle 
+### 💻 Programming Languages
 
-📚 Currently Learning
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" alt="Programming skills"/>
+</p>
 
-- Python
-- NumPy
-- Pandas
-- SQL
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
+### 🤖 AI, ML & Data Analysis
 
-🎯 Career Goal
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge"/>
+</p>
 
-To start my career in the technology industry and work on AI-driven software solutions while continuously developing my technical skills.
+### 🛠️ Frameworks & Developer Tools
 
-🔗 Connect With Me
+<p>
+<img src="https://skillicons.dev/icons?i=flask,django,git,github,vscode,mysql" alt="Frameworks and tools"/>
+</p>
 
-- LinkedIn: www.linkedin.com/in/nandam-harsha-nandini-67325a296
-- GitHub: "Nandam-Harsha-Nandini" (https://github.com/Nandam-Harsha-Nandini)
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Fake Resume Detection
+
+An AI/ML project that analyzes resume content and predicts whether a resume may be genuine or fake.
+
+**Tech:** Python · NLP · Machine Learning · Flask
+
+</td>
+<td width="50%">
+
+### 📄 AI Resume Analyzer
+
+An application designed to analyze resumes and provide suggestions to improve their content and presentation.
+
+**Tech:** Python · AI APIs · Web Development
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🌾 Smart Farming Assistance Platform
+
+An AI and ML-powered farming platform concept featuring crop recommendations, yield prediction, weather assistance and plant disease detection.
+
+**Tech:** Python · Machine Learning · APIs · PostgreSQL
+
+</td>
+</tr>
+</table>
+
+*Project descriptions represent my project work and development interests. Visit my repositories for available code and implementation details.*
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nandam-Harsha-Nandini&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="165" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandam-Harsha-Nandini&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="165" alt="Most used languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Nandam-Harsha-Nandini&theme=tokyonight&hide_border=true&border_radius=15" width="70%" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- 🐍 Advanced Python programming
+- 📈 Data analysis with Pandas and NumPy
+- 📊 Data visualization with Matplotlib
+- 🧠 Machine Learning fundamentals
+- 🌐 Web development and REST APIs
+- 🗄️ Database management with MySQL
+
+---
+
+## 🎯 My Goals
+
+- Build useful AI and ML applications
+- Strengthen problem-solving skills
+- Contribute to open-source projects
+- Develop industry-ready technical skills
+- Keep learning and growing as a developer
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+<a href="https://github.com/Nandam-Harsha-Nandini">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+### 💜 Thanks for visiting my profile!
+
+**Keep learning. Keep building. Keep growing. 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:8A2BE2,100:6A5ACD&height=100&section=footer" width="100%"/>
+
+</div>
